@@ -1,16 +1,8 @@
-# Welcome to your Jupyter Book
+# MINT AM NAOB
+Diese Seiten richten sich an die Teilnehmer meines Unterrichts am NAOB. Hier werden Informationen zum Unterrichtsgeschehen gebündelt.
 
-This is a small sample book to give you a feel for how book content is
-structured.
-
-:::{note}
-Here is a note!
-:::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
+MINT steht für **M**athematik, **I**nformatik, **N**aturwissenschaften und **T**echnik.
+Mathematik umfasst alles bis zur Fachhochschulreife,
+Informatik ist mehr Office-Anwedungen,
+in Naturwissenschaften liegt der Schwerpunkt auf Physik und
+Technik umfasst Konstruktion unter Anwendung der CAD-Software Catia.
