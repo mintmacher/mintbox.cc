@@ -6,4 +6,4 @@ root: intro
 parts:
   - caption: Mathematik
     chapters:
-    - file m/mathematik
+      - file m/mathematik
