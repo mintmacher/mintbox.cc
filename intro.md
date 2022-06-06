@@ -1,4 +1,4 @@
-# MINT AM NAOB
+# MINT am NAOB
 Diese Seiten richten sich an die Teilnehmer meines Unterrichts am NAOB. Hier werden Informationen zum Unterrichtsgeschehen gebündelt.
 
 MINT steht für **M**athematik, **I**nformatik, **N**aturwissenschaften und **T**echnik.
