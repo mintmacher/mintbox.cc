@@ -6,20 +6,22 @@ root: intro
 parts:
   - caption: Mathematik
     chapters:
-      - file: m/mathematik
+    - file: m/mathematik
+      sections:
       - file: m/links
   - caption: Informatik
     chapters:
-      - file: i/informatik
-      - file: i/office/office
+    - file: i/informatik
+    - file: i/office/office
   - caption: Naturwissenschaften
     chapters:
-      - file: n/naturwissenschaften
-      - file: m/links
+    - file: n/naturwissenschaften
+      sections:
+      - file: n/links
   - caption: Technik
     chapters:
-      - file: t/technik
-      - file: catia/catia
+    - file: t/technik
+    - file: t/catia/catia
   - caption: Formelsammlung
     chapters:
-      - file: f/formelsammlung
+    - file: f/formelsammlung
