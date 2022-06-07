@@ -7,3 +7,15 @@ parts:
   - caption: Mathematik
     chapters:
       - file: m/mathematik
+  - caption: Informatik
+    chapters:
+      - file: i/informatik
+  - caption: Naturwissenschaften
+    chapters:
+      - file: n/naturwissenschaften
+  - caption: Technik
+    chapters:
+      - file: t/technik
+#  - caption: Formelsammlung
+#    chapters:
+#      - file: f/formelsammlung
