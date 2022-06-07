@@ -6,14 +6,13 @@ root: intro
 parts:
   - caption: Mathematik
     chapters:
-      - file: m/mathematik
       - file: m/links
+      - file: m/mathematik
   - caption: Informatik
     chapters:
       - file: i/informatik
         sections:
-          - caption: Office
-              - file: i/office/office
+          - file: i/office/office
   - caption: Naturwissenschaften
     chapters:
       - file: n/links
@@ -22,7 +21,6 @@ parts:
     chapters:
       - file: t/technik
       sections:
-        caption: CATIA
         - file: catia/catia
   - caption: Formelsammlung
     chapters:
