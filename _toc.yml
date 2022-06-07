@@ -11,8 +11,7 @@ parts:
   - caption: Informatik
     chapters:
       - file: i/informatik
-        sections:
-          - file: i/office/office
+      - file: i/office/office
   - caption: Naturwissenschaften
     chapters:
       - file: n/links
@@ -20,8 +19,7 @@ parts:
   - caption: Technik
     chapters:
       - file: t/technik
-        sections:
-          - file: catia/catia
+      - file: catia/catia
   - caption: Formelsammlung
     chapters:
       - file: f/formelsammlung
