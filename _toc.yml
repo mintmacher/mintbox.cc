@@ -7,8 +7,7 @@ parts:
   - caption: Mathematik
     chapters:
       - file: m/mathematik
-        sections:
-          - file: m/links
+      - file: m/links
   - caption: Informatik
     chapters:
       - file: i/informatik
@@ -16,8 +15,7 @@ parts:
   - caption: Naturwissenschaften
     chapters:
       - file: n/naturwissenschaften
-        sections:
-          - file: m/links
+      - file: m/links
   - caption: Technik
     chapters:
       - file: t/technik
