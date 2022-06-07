@@ -16,6 +16,8 @@ parts:
   - caption: Technik
     chapters:
       - file: t/technik
-#  - caption: Formelsammlung
-#    chapters:
-#      - file: f/formelsammlung
+      sections:
+      - file: catia/catia
+  - caption: Formelsammlung
+    chapters:
+      - file: f/formelsammlung
