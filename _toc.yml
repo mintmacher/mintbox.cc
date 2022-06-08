@@ -4,22 +4,17 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Mathematik
+  - caption: MINT
     chapters:
     - file: m/mathematik
       sections:
       - file: m/links
-  - caption: Informatik
-    chapters:
     - file: i/informatik
     - file: i/office/office
-  - caption: Naturwissenschaften
-    chapters:
     - file: n/naturwissenschaften
       sections:
       - file: n/links
-  - caption: Technik
-    chapters:
+      - file: n/physik/physik
     - file: t/technik
     - file: t/catia/catia
   - caption: Formelsammlung
