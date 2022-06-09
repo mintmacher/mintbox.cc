@@ -6,19 +6,19 @@ root: intro
 parts:
   - caption: MINT
     chapters:
-    - file: mathematik/index
+    - file: mint/mathematik/index
       sections:
-      - file: m/links
-    - file: informatik/index
+      - file: mint/mathematik/links
+    - file: mint/informatik/index
       sections:
-      - file: i/office/index
-    - file: natwiss/index
+      - file: mint/informatik/office/index
+    - file: mint/natwiss/index
       sections:
-      - file: n/links
-      - file: n/physik/index
-    - file: technik/index
+      - file: mint/natwiss/links
+      - file: mint/natwiss/physik/index
+    - file: mint/technik/index
       sections:
-      - file: t/catia/index
+      - file: mint/technik/catia/index
   - caption: Formelsammlung
     chapters:
     - file: formelsammlung/mathematik
