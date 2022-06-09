@@ -10,13 +10,16 @@ parts:
       sections:
       - file: m/links
     - file: i/informatik
-    - file: i/office/office
+      sections:
+      - file: i/office/office
     - file: n/naturwissenschaften
       sections:
       - file: n/links
       - file: n/physik/physik
     - file: t/technik
-    - file: t/catia/catia
+      sections:
+      - file: t/catia/catia
   - caption: Formelsammlung
     chapters:
-    - file: f/formelsammlung
+    - file: f/mathematik
+    - file: f/physik
