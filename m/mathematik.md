@@ -1,3 +1,0 @@
-# Mathematik
-
-Eigenschaften und Muster

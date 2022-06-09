@@ -6,20 +6,20 @@ root: intro
 parts:
   - caption: MINT
     chapters:
-    - file: m/mathematik
+    - file: mathematik/index
       sections:
       - file: m/links
-    - file: i/informatik
+    - file: informatik/index
       sections:
-      - file: i/office/office
-    - file: n/naturwissenschaften
+      - file: i/office/index
+    - file: natwiss/index
       sections:
       - file: n/links
-      - file: n/physik/physik
-    - file: t/technik
+      - file: n/physik/index
+    - file: technik/index
       sections:
-      - file: t/catia/catia
+      - file: t/catia/index
   - caption: Formelsammlung
     chapters:
-    - file: f/mathematik
-    - file: f/physik
+    - file: formelsammlung/mathematik
+    - file: formelsammlung/physik
