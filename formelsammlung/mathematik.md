@@ -8,7 +8,7 @@ Die Welt ist eine Formel :-)
 
 Die natürlichen Zahlen sind die beim Zählen verwendeten Zahlen 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 usw. Die 0 (Null) wird in dieser Definition zu den natürlichen Zahlen gezählt.
 
-$$\N = \{0;1;2;\dots\}$$
+$$\mathbb{N} = \{0;1;2;\dots\}$$
 
 Natürliche Zahlen können multipliziert und addiert werden. Eine Substraktion ist auf den Natürlichen Zahlen nicht definiert, so ist z.B. $1-3$ keine natürliche Zahl.
 
@@ -16,7 +16,7 @@ Natürliche Zahlen können multipliziert und addiert werden. Eine Substraktion i
 
 Die ganzen Zahlen sind eine Erweiterung der natürlichen Zahlen. Neben der Multiplikation und der Addition ist jetzt auch die Subtraktion definiert: $1-3=-2$.
 
-$$\Z = \{\dots ; -3; -2; -1; 0; 1; 2; 3; \dots\}$$
+$$\mathbb{Z} = \{\dots ; -3; -2; -1; 0; 1; 2; 3; \dots\}$$
 
 In der Menge der natürlichen und der ganzen Zahlen ist eine Division nicht definiert.
 
@@ -24,12 +24,12 @@ In der Menge der natürlichen und der ganzen Zahlen ist eine Division nicht defi
 
 Die rationalen Zahlen umfassen alle Brüche.
 
-$$\R = \left\{ {z \over n}\ \mid \ z\in\Z;\ n\in\N\setminus{\{0\}} \right\} $$
+$$\mathbb{Q} = \left\{ {z \over n}\ \mid \ z\in\mathbb{Z};\ n\in\mathbb{N}\setminus{\{0\}} \right\} $$
 
 Brüche lassen sich addieren, subtrahieren, multiplizieren und dividieren. Aber es gibt z.B. keine rationale Zahl deren Quadrat $2$ ergibt.
 
 ### Reele Zahlen
 
-Die reelen Zahlen schließen Lücken in den rationalen Zahlen. Alle Punkte auf einem Zahlenstrahl entsprechen einer reellen Zahl und umgekehrt. Der Zahlenstrahl dient als Modell der reellen Zahlen.
+Die reelen Zahlen $\mathbb{R}$ schließen Lücken in den rationalen Zahlen. Alle Punkte auf einem Zahlenstrahl entsprechen einer reellen Zahl und umgekehrt. Der Zahlenstrahl dient als Modell der reellen Zahlen.
 
 HIER FEHLT EIN BILD
