@@ -1,3 +1,15 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+
 # Mathematik
 
 Die Welt ist eine Formel :-)
@@ -32,4 +44,8 @@ Brüche lassen sich addieren, subtrahieren, multiplizieren und dividieren. Aber 
 
 Die reelen Zahlen $\mathbb{R}$ schließen Lücken in den rationalen Zahlen. Z.B. ist $\sqrt2$ keine rationale Zahl. Alle Punkte auf einem Zahlenstrahl entsprechen einer reellen Zahl und umgekehrt. Der Zahlenstrahl dient als Modell der reellen Zahlen.
 
-HIER FEHLT EIN BILD
+```{code-cell} ipython3
+:tags: [mytag]
+
+print("HIER FEHLT EIN BILD")
+```
