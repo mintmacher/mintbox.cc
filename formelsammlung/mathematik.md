@@ -30,6 +30,6 @@ Brüche lassen sich addieren, subtrahieren, multiplizieren und dividieren. Aber 
 
 ### Reele Zahlen
 
-Die reelen Zahlen $\mathbb{R}$ schließen Lücken in den rationalen Zahlen. Z.B. ist $\sqrt2$ keine rational Zahl. Alle Punkte auf einem Zahlenstrahl entsprechen einer reellen Zahl und umgekehrt. Der Zahlenstrahl dient als Modell der reellen Zahlen.
+Die reelen Zahlen $\mathbb{R}$ schließen Lücken in den rationalen Zahlen. Z.B. ist $\sqrt2$ keine rationale Zahl. Alle Punkte auf einem Zahlenstrahl entsprechen einer reellen Zahl und umgekehrt. Der Zahlenstrahl dient als Modell der reellen Zahlen.
 
 HIER FEHLT EIN BILD
