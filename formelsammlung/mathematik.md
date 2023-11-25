@@ -8,6 +8,8 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
+mystnb:
+    execution_mode: 'inline'
 ---
 
 # Mathematik
@@ -47,5 +49,7 @@ Die reelen Zahlen $\mathbb{R}$ schließen Lücken in den rationalen Zahlen. Z.B.
 ```{code-cell} ipython3
 :tags: [remove-input]
 
-print("Hier fehlt ein Bild")
+text = "Hier fehlt ein Bild"
 ```
+
+{eval}`text`
