@@ -47,5 +47,5 @@ Die reelen Zahlen $\mathbb{R}$ schließen Lücken in den rationalen Zahlen. Z.B.
 ```{code-cell} ipython3
 :tags: [mytag]
 
-print("HIER FEHLT EIN BILD")
+print("Hier fehlt ein Bild")
 ```
