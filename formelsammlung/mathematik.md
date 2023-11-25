@@ -45,7 +45,7 @@ Brüche lassen sich addieren, subtrahieren, multiplizieren und dividieren. Aber 
 Die reelen Zahlen $\mathbb{R}$ schließen Lücken in den rationalen Zahlen. Z.B. ist $\sqrt2$ keine rationale Zahl. Alle Punkte auf einem Zahlenstrahl entsprechen einer reellen Zahl und umgekehrt. Der Zahlenstrahl dient als Modell der reellen Zahlen.
 
 ```{code-cell} ipython3
-:tags: [mytag]
+:tags: [remove-input]
 
 print("Hier fehlt ein Bild")
 ```
